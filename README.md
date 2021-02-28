@@ -1,5 +1,5 @@
 ### Hi, I'm Deshario 👋
-I'm a developer, working on web applications technology and looking forward to solve real world problems. I 
+I'm a developer, working on web applications technology and looking forward to solve real-world problems and always eager to learn new technologies.
 
 - 🔭 &nbsp;&nbsp;Currently working on  **```M E R N```** and wordpress
 - 👯 &nbsp;&nbsp;Looking to collaborate on **```frontend projects```**
