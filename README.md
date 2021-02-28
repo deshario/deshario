@@ -1,9 +1,11 @@
 ### Hi, I'm Deshario 👋
 I'm a developer, working on web applications technology and looking forward to solve real world problems. I 
 
-- 🔭 Currently working on  **```M E R N```** and wordpress
-- 👯 Looking to collaborate on ```frontend projects```
-- 🤔 Interested on blockchain technology
+- 🔭 &nbsp;&nbsp;Currently working on  **```M E R N```** and wordpress
+- 👯 &nbsp;&nbsp;Looking to collaborate on **```frontend projects```**
+- 🤔 &nbsp;&nbsp;Interested on blockchain technology
+
+---
 
 ![Deshario stats](https://github-readme-stats.vercel.app/api?username=deshario&show_icons=true&theme=merko&include_all_commits=true&hide_rank=false&custom_title=Deshario%20Git%20Stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deshario&layout=compact&theme=cobalt)](https://github.com/deshario)
 
