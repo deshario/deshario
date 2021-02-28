@@ -2,7 +2,7 @@
 I'm a developer, working on web applications technology and looking forward to solve real-world problems.
 
 - 🔭 &nbsp;&nbsp;Currently working on  **```M E R N```** and wordpress
-- 👯 &nbsp;&nbsp;Looking to collaborate on **```frontend projects```**
+- 👯 &nbsp;&nbsp;Looking to collaborate on some **```cool projects```**
 - 🤔 &nbsp;&nbsp;Interested on blockchain technology
 
 ---
